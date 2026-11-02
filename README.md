@@ -385,9 +385,9 @@ Claude Code（`~/.claude/skills`）、Codex / Cursor / Gemini CLI / Copilot / Op
 
 如果这个项目帮你省了点时间，欢迎请我喝杯咖啡。☕
 
-| 支付宝 | 微信支付 |
-| ------ | -------- |
-| ![支付宝收款码](assets/alipay.jpg) | ![微信支付收款码](assets/wechat-pay.png) |
+| 微信支付 |
+| -------- |
+| ![微信支付收款码](assets/wechat-pay.png) |
 
 ## 协议
 
