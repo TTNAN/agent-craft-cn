@@ -387,9 +387,9 @@ This pack is natively rewritten in Chinese, not a translation.
 
 If this project saved you some time, feel free to buy me a coffee. ☕
 
-| WeChat Pay |
+| WeChat Reward |
 | ---------- |
-| ![WeChat Pay QR code](assets/wechat-pay.png) |
+| ![WeChat Reward QR code](assets/wechat-pay.png) |
 
 ## License
 
