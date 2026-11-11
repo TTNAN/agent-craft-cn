@@ -1,6 +1,7 @@
 ---
 name: debug-like-detective
-description: 遇到 bug / 报错 / 测试挂了时触发：先复现、列假设、做最小实验二分定位，不许靠随机试错改代码。Keywords: bug, debug, 调试
+description: >-
+  遇到 bug / 报错 / 测试挂了时触发：先复现、列假设、做最小实验二分定位，不许靠随机试错改代码。Keywords: bug, debug, 调试
 ---
 
 ## 这是什么

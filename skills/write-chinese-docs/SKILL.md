@@ -1,6 +1,7 @@
 ---
 name: write-chinese-docs
-description: 写 README / 注释 / 中文技术文档时触发：说人话、去翻译腔和 AI 味，先给结论再讲细节。Keywords: docs, README, 文档
+description: >-
+  写 README / 注释 / 中文技术文档时触发：说人话、去翻译腔和 AI 味，先给结论再讲细节。Keywords: docs, README, 文档
 ---
 
 ## 这是什么

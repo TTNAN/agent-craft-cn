@@ -1,6 +1,7 @@
 ---
 name: plan-before-code
-description: 动手写代码前触发：先把实现方案写成计划（目标/步骤/风险/验证）给用户确认；小任务压缩成三句话。Keywords: plan, 计划
+description: >-
+  动手写代码前触发：先把实现方案写成计划（目标/步骤/风险/验证）给用户确认；小任务压缩成三句话。Keywords: plan, 计划
 ---
 
 ## 这是什么

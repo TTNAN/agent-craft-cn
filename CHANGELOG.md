@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v0.2.1（2026-11-11）
+
+- fix：9 个 SKILL.md 的 description 含“Keywords: ”冒号，YAML 解析失败，`npx skills add` 会跳过全部 skill；改为 `>-` 块标量，文字不变
+- ci：新增 `tests/check_skills.py` 和 GitHub Actions，校验每个 SKILL.md 的 frontmatter
+
 ## v0.2.0（2026-10-13）
 
 - docs：README 开头加厚（为什么需要它 / 它是什么 / 适合谁）+ 多 Agent 安装矩阵（13 个 target，目录映射参考 vercel-labs/skills）

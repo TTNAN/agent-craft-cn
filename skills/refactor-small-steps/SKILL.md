@@ -1,6 +1,7 @@
 ---
 name: refactor-small-steps
-description: 要重构代码时触发：一次只改一步，每步可验证、有测试护航；不许大爆炸式重写。Keywords: refactor, 重构
+description: >-
+  要重构代码时触发：一次只改一步，每步可验证、有测试护航；不许大爆炸式重写。Keywords: refactor, 重构
 ---
 
 ## 这是什么

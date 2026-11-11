@@ -1,6 +1,7 @@
 ---
 name: tdd-red-green
-description: 写新功能或修 bug 时触发：先写一个失败的测试，再写最简实现让它变绿，最后重构；不许先实现后补测试。Keywords: TDD, test, 测试驱动
+description: >-
+  写新功能或修 bug 时触发：先写一个失败的测试，再写最简实现让它变绿，最后重构；不许先实现后补测试。Keywords: TDD, test, 测试驱动
 ---
 
 ## 这是什么

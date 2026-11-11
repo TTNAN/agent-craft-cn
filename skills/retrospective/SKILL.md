@@ -1,6 +1,7 @@
 ---
 name: retrospective
-description: 项目上线、故障处理完、迭代结束需要复盘时触发：按事实→归因→行动项输出，每条行动项必须有负责人和截止时间（问用户，不许编）。Keywords: retrospective, 复盘
+description: >-
+  项目上线、故障处理完、迭代结束需要复盘时触发：按事实→归因→行动项输出，每条行动项必须有负责人和截止时间（问用户，不许编）。Keywords: retrospective, 复盘
 ---
 
 ## 这是什么

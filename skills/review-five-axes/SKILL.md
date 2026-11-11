@@ -1,6 +1,7 @@
 ---
 name: review-five-axes
-description: 用户说 review / 帮我看下这段代码时触发：按正确性/边界/可读性/安全/性能五个维度检查，只报真问题并标严重级别。Keywords: review, code review, 代码评审
+description: >-
+  用户说 review / 帮我看下这段代码时触发：按正确性/边界/可读性/安全/性能五个维度检查，只报真问题并标严重级别。Keywords: review, code review, 代码评审
 ---
 
 ## 这是什么

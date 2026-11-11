@@ -1,6 +1,7 @@
 ---
 name: clarify-first
-description: 用户一句话提需求、需求里出现模糊词（大概/尽快/简单搞一下）时触发：一次只问一个问题，把需求挖到可动手粒度再开工。Keywords: requirement, 需求澄清
+description: >-
+  用户一句话提需求、需求里出现模糊词（大概/尽快/简单搞一下）时触发：一次只问一个问题，把需求挖到可动手粒度再开工。Keywords: requirement, 需求澄清
 ---
 
 ## 这是什么
